@@ -1,4 +1,4 @@
-package com.neoqee.camera
+package com.neoqee.example
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
